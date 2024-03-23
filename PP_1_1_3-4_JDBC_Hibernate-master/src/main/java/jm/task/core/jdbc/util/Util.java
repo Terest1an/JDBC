@@ -5,7 +5,6 @@ import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.cfg.Environment;
-
 import org.hibernate.service.ServiceRegistry;
 import java.sql.*;
 import java.util.Properties;
